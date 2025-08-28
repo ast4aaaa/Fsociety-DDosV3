@@ -10,7 +10,6 @@ This tool is intended strictly for **educational** and **authorized security tes
 Get the precompiled Windows executable here:
 
 **🔗 [Download FsocietyV3.exe](https://files.fm/f/tmgbzjmq9t)**  
-Provided via files.fm :contentReference[oaicite:0]{index=0}
 
 ---
 
